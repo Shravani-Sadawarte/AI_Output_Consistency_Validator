@@ -292,6 +292,10 @@ The Streamlit dashboard includes:
 - Validation history table
 - Malformed JSON alerts
 
+=> Images: 
+<img width="1919" height="988" alt="Screenshot 2026-06-04 153150" src="https://github.com/user-attachments/assets/75cedaca-dc27-48c9-863a-6b889e3dde23" />
+<img width="1919" height="949" alt="Screenshot 2026-06-04 153108" src="https://github.com/user-attachments/assets/d34f1593-8357-4c75-8b38-1553cdc0c4d7" />
+
 ---
 
 # 🧪 Test Cases
